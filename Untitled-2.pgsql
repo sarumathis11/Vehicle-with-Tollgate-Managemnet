@@ -1,0 +1,1 @@
+SELECT * FROM "candidates" LIMIT 1000;
